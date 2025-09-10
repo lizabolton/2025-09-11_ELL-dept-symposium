@@ -1,0 +1,36 @@
+---
+title: "."
+format:
+  revealjs:
+    theme: [default, theme.scss]
+    width: 1600 # Widescreen width
+    height: 900 # Widescreen height (16:9 aspect ratio)
+    slide-number: true
+    show-slide-number: all
+    incremental: true # Reveals bullet points one by one
+    chalkboard: true # Enables a virtual chalkboard
+    footer: "Waipapa Taumata Rau | University of Auckland"
+title-slide-attributes: 
+    data-background-image: "title.gif"
+    data-background-position: bottom
+    data-background-size: cover
+    data-background-opacity: "1"
+---
+
+
+## Get these slides 📱
+
+```{r, echo = F}
+plot(qrcode::qr_code("https://lizabolton.github.io/2025-SWU-welcome/#/title-slide"))
+```
+
+
+## References
+
+### Images
+Unless otherwise stated, all images were created with Gemini
+
+# Alt text
+
+## Title page
+An 8-bit style presentation slide with the title "Talk data to me?". Two 8-bit characters, one with black hair and a red shirt on the left, and another with brown hair and a purple shirt on the right, stand on either side of a dark blue and light blue 8-bit wave design. The wave swaps direction between the two in a simple animation, as their mouths open and close. Below the wave, the text reads "Supporting English Language Learners in Statistics and Data Science" followed by a list of names under "Liza Bolton, Ping Huang, Christy Sun, Jingdi Sun with collaborators at the University of Toronto: Nathalie Moon, Samantha-Jo Caetano, J. Sparks, Quin Xie".
