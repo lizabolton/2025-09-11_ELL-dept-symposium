@@ -24,6 +24,8 @@ title-slide-attributes:
 plot(qrcode::qr_code("https://lizabolton.github.io/2025-09-11_ELL-dept-symposium/#/title-slide"))
 ```
 
+🔗 You can also access these through: [link.lizabolton.com](https://link.lizabolton.com/) 
+
 For accessibility, there is alt text available for some images at the end.
 
 ## This isn't the best song ever, this is just a tribute...
@@ -55,8 +57,11 @@ So for now, this in an early invitation to discuss challenges and opportunities 
 ::: {.column width="60%"}
 Bonjour, kia ora, 你好 (안녕, こんにちは)
 
---
-Language is not 'just' a skill, it is part of culture, identity and how we know others and make ourselves known in turn.
+<br>
+English is the first language I learned, and it is the one I am most fluent in. I have never had my personal success, safety or access to resources rely on my abilities in another language. Many of you have first-hand experience with learning English as an additional language, that I don't.
+
+<br>
+Language is not 'just' a skill — it is part of culture, identity and how we know others and make ourselves known in turn.
 :::
 
 :::
@@ -102,9 +107,10 @@ Language is not 'just' a skill, it is part of culture, identity and how we know 
 
 {{< pdf pdf/ping.pdf width=100% height=900 >}}
 
+
 # Some other ideas
 
-## 🤔 Think, 👯 Pair, 🗣️ Share
+## 🤔 Think 👯 Pair 🗣️ Share
 
 In this classroom strategy, you present students with a task or question and then they work through three phases: thinking, pairing and finally sharing. 
 
@@ -123,9 +129,11 @@ The sharing can be out loud in the class, but I really like to pair the speaking
 
 ## Supporting spoken instructions with written/visual prompts
 
-Not only does this support ELL students, but it can also support students with auditory processing issues or executive function/focus challenges. 
+- This is an example of one (of the many!) reasons doing peer observations of teaching is helpful. If I found I was missing or not fully hearing instructions during an activity, it seems reasonable to expect students will too. 
 
-Multi-support win!
+- Not only does this support ELL students, but it can also support students with auditory processing issues or executive function/focus challenges. *Multi-support win!* 🏅 
+
+- ⏎🔥 Backfire: teaching at SWU, this meant students just put the questions in an LLM chatbot and submitted the answer from DeepSeek 😭.
 
 ## Creating glossaries/cheat sheets as an assessment task
 
@@ -135,25 +143,39 @@ Multi-support win!
 
 ---
 
+### STATS 330 example
+
 {{< pdf pdf/STATS330_assignment-3_task.html width=100% height=900 >}}
 
+---
 
-## References
+### STA303 example (University of Toronto)
+
+
+```{=html}
+<iframe width="1600" height="800" src="https://sta303-bolton.github.io/sta303-w22-courseguide/knowledge-basket-other.html#linear-mixed-models-study-guide" title="STA303 example (University of Toronto)"></iframe>
+```
+
+## References {visibility="uncounted"}
 
 ### Images
 Unless otherwise stated, all images were created with Gemini 2.5.
 
 *This Is Not The Greatest Song In The World This Is Just A Tribute Kids T-Shirt*. [Image]. Designed and sold by FanaticB. https://www.redbubble.com/i/kids-t-shirt/This-Is-Not-The-Greatest-Song-In-The-World-This-Is-Just-A-Tribute-by-FanaticB/164147311.MZ153
 
-# Alt text
+# Alt text {visibility="uncounted"}
 
-## Title page
+## Title page {visibility="uncounted"}
 An 8-bit style presentation slide with the title "Talk data to me?". Two 8-bit characters, one with black hair and a red shirt on the left, and another with brown hair and a purple shirt on the right, stand on either side of a dark blue and light blue 8-bit wave design. The wave swaps direction between the two in a simple animation, as their mouths open and close. Below the wave, the text reads "Supporting English Language Learners in Statistics and Data Science" followed by a list of names under "Liza Bolton, Ping Huang, Christy Sun, Jingdi Sun with collaborators at the University of Toronto: Nathalie Moon, Samantha-Jo Caetano, J. Sparks, Quin Xie".
 
-## Positionality statement
+## Positionality statement {visibility="uncounted"}
 
 An 8-bit pixel art character with brown wavy hair and a light blue striped shirt sits in a chair, holding a white paper. Behind them is a bookshelf with colorful books and a Halloween pumpkin bucket. The character has an open mouth as if speaking.
 
-## ELL support at UofT vs WTR
+## ELLs are not a monolith {visibility="uncounted"}
+
+An 8-bit image of a spiralling tower with many levels, aiming to represent the Tower of Babel.
+
+## ELL support at UofT vs WTR {visibility="uncounted"}
 
 An 8-bit pixel image of a map of the world.
