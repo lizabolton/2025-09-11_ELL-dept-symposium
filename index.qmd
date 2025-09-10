@@ -20,7 +20,7 @@ title-slide-attributes:
 
 ## Get these slides 📱
 
-```{r, echo = F}
+```{r, echo = F, fig.align='center'}
 plot(qrcode::qr_code("https://lizabolton.github.io/2025-09-11_ELL-dept-symposium/#/title-slide"))
 ```
 
