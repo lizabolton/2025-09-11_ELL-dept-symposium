@@ -77,9 +77,9 @@ Language is not 'just' a skill — it is part of culture, identity and how we kn
 
 ::: {.column width="60%"}
 
-👩🏻‍🎓 ELL = English Language Learner. You may be familiar with EAL (English as an Additional Language) or ESOL (English as a Second Language).
+👩🏻‍🎓 ELL = English Language Learner. You may be familiar with EAL (English as an Additional Language) or ESOL (English for Speakers of Other Languages).
 
-🈶 The majority of the ELL students I have taught have Chinese backgrounds (Univeristy of Toronto, Univeristy of Auckland, teaching at Southwest University 西南大学).
+🈶 The majority of the ELL students I have taught have Chinese backgrounds (University of Toronto, University of Auckland, teaching at Southwest University 西南大学).
 
 💰 This project is funded out of the money related to teaching into our Transnational Education Agreement programme with Southwest University 西南大学.
 
@@ -138,7 +138,7 @@ Language is not 'just' a skill — it is part of culture, identity and how we kn
 
 - Not only does this support ELL students, but it can also support students with auditory processing issues or executive function/focus challenges. *Multi-support win!* 🏅 
 
-- ⏎🔥 Backfire: teaching at SWU, this meant students just put the questions in an LLM chatbot and submitted the answer from DeepSeek 😭.
+- ⏎🔥 Backfire: teaching at SWU, this meant students just put the questions in an LLM chat bot and submitted the answer from DeepSeek 😭.
 
 ## Creating glossaries/cheat sheets as an assessment task
 
@@ -179,7 +179,7 @@ A graphic featuring an acoustic guitar surrounded by red roses and black decorat
 
 ## Positionality statement {visibility="uncounted"}
 
-An 8-bit pixel art character with brown wavy hair and a light blue striped shirt sits in a chair, holding a white paper. Behind them is a bookshelf with colorful books and a Halloween pumpkin bucket. The character has an open mouth as if speaking.
+An 8-bit pixel art character with brown wavy hair and a light blue striped shirt sits in a chair, holding a white paper. Behind them is a bookshelf with colourful books and a Halloween pumpkin bucket. The character has an open mouth as if speaking.
 
 ## ELLs are not a monolith {visibility="uncounted"}
 
