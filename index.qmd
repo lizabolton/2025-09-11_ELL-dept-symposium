@@ -8,7 +8,7 @@ format:
     slide-number: true
     show-slide-number: all
     incremental: true # Reveals bullet points one by one
-    chalkboard: true # Enables a virtual chalkboard
+    #chalkboard: true # Enables a virtual chalkboard
     #footer: "Waipapa Taumata Rau | University of Auckland"
 title-slide-attributes: 
     data-background-image: "title.gif"
@@ -16,7 +16,6 @@ title-slide-attributes:
     data-background-size: contain
     data-background-opacity: "1"
 ---
-
 
 ## Get these slides 📱
 
@@ -157,12 +156,11 @@ Language is not 'just' a skill — it is part of culture, identity and how we kn
 
 ### STA303 example (University of Toronto)
 
-
-```{=html}
-<iframe width="1600" height="800" src="https://sta303-bolton.github.io/sta303-w22-courseguide/knowledge-basket-other.html#linear-mixed-models-study-guide" title="STA303 example (University of Toronto)"></iframe>
-```
+[Direct link](https://sta303-bolton.github.io/sta303-w22-courseguide/knowledge-basket-other.html#linear-mixed-models-study-guide)
 
 ## References {visibility="uncounted"}
+
+Please see each RA's slide for their specific references.
 
 ### Images
 Unless otherwise stated, all images were created with Gemini 2.5.
@@ -174,7 +172,7 @@ Unless otherwise stated, all images were created with Gemini 2.5.
 ## Title page {visibility="uncounted"}
 An 8-bit style presentation slide with the title "Talk data to me?". Two 8-bit characters, one with black hair and a red shirt on the left, and another with brown hair and a purple shirt on the right, stand on either side of a dark blue and light blue 8-bit wave design. The wave swaps direction between the two in a simple animation, as their mouths open and close. Below the wave, the text reads "Supporting English Language Learners in Statistics and Data Science" followed by a list of names under "Liza Bolton, Ping Huang, Christy Sun, Jingdi Sun with collaborators at the University of Toronto: Nathalie Moon, Samantha-Jo Caetano, J. Sparks, Quin Xie".
 
-## {visibility="uncounted"}
+## Slide 3 {visibility="uncounted"}
 
 A graphic featuring an acoustic guitar surrounded by red roses and black decorative swirls. The text at the top reads "THIS IS NOT THE GREATEST SONG IN THE WORLD." Below the guitar, the text continues "THIS IS JUST A TRIBUTE." The overall style is illustrative with a vintage feel, and the phrase "FanaticB" is in small text at the bottom right.
 
