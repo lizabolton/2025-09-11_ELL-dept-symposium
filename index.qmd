@@ -28,20 +28,20 @@ plot(qrcode::qr_code("https://lizabolton.github.io/2025-09-11_ELL-dept-symposium
 
 For accessibility, there is alt text available for some images at the end.
 
-## This isn't the best song ever, this is just a tribute...
+---
 
 ::: columns
 
 ::: {.column width="40%"}
-![Credit: FanaticB on Redbubble](img/tribute.png)
+![Art credit: FanaticB on Redbubble, song lyric from "Tribute" by Tenacious D](img/tribute.png)
 :::
 
 ::: {.column width="60%"}
-Goal: *Explore how support for ELL students can be integrated at various scales — from small modifications to teaching practices to large changes in assessment and design. Opportunities will be illustrated across junior and senior undergraduate statistics and data science courses in Canada, Aotearoa New Zealand and China.*
+**Goal**: *Explore how support for ELL students can be integrated at various scales — from small modifications to teaching practices to large changes in assessment and design. Opportunities will be illustrated across junior and senior undergraduate statistics and data science courses in Canada, Aotearoa New Zealand and China.*
 
-Outputs: ICOTS presentation in Brisbane next year + peer reviewed conference paper (due later this year); NZSA; + RA led work
+**Outputs**: ICOTS presentation in Brisbane next year + peer reviewed conference paper (due later this year); NZSA(?); + RA led work (TBD)
 
-So for now, this in an early invitation to discuss challenges and opportunities you have faced and would like to share or seek support in.
+So for now, this in an *early* invitation to discuss challenges and opportunities you have faced and would like to share or seek support in.
 :::
 
 :::
@@ -51,7 +51,7 @@ So for now, this in an early invitation to discuss challenges and opportunities 
 ::: columns
 
 ::: {.column width="40%"}
-![](img/liza8bit.png){width=100%}
+![Original photo credit: Heidi Martin Photography](img/liza8bit.png){width=100%}
 :::
 
 ::: {.column width="60%"}
@@ -78,7 +78,9 @@ Language is not 'just' a skill — it is part of culture, identity and how we kn
 
 ::: {.column width="60%"}
 
-🈶 The majority of the ELL students I have taught have Chinese backgrounds (Univeristy of Toronto, Univeristy of Auckland, teaching at Southwest University 西南大学)
+👩🏻‍🎓 ELL = English Language Learner. You may be familiar with EAL (English as an Additional Language) or ESOL (English as a Second Language).
+
+🈶 The majority of the ELL students I have taught have Chinese backgrounds (Univeristy of Toronto, Univeristy of Auckland, teaching at Southwest University 西南大学).
 
 💰 This project is funded out of the money related to teaching into our Transnational Education Agreement programme with Southwest University 西南大学.
 
@@ -89,7 +91,11 @@ Language is not 'just' a skill — it is part of culture, identity and how we kn
 
 ## ELL support at UofT vs WTR
 
-![](img/map.png)
+![](img/map.png){fig-align="center"}
+
+::: {.notes}
+'Mega' Faculty of Arts & Science
+:::
 
 ---
 
@@ -112,9 +118,9 @@ Language is not 'just' a skill — it is part of culture, identity and how we kn
 
 ## 🤔 Think 👯 Pair 🗣️ Share
 
-In this classroom strategy, you present students with a task or question and then they work through three phases: thinking, pairing and finally sharing. 
+- In this classroom strategy, you present students with a task or question and then they work through three phases: thinking, pairing and finally sharing. 
 
-The sharing can be out loud in the class, but I really like to pair the speaking ‘pairing’ phase with an anonymous written ‘sharing’ phase using an app like Anna’s Stats App to reduce embarrassment. 
+- The sharing can be out loud in the class, but I really like to pair the speaking ‘pairing’ phase with an anonymous written ‘sharing’ phase using an app like Anna’s Stats App to reduce embarrassment. 
 
 ::: columns
 
@@ -167,6 +173,10 @@ Unless otherwise stated, all images were created with Gemini 2.5.
 
 ## Title page {visibility="uncounted"}
 An 8-bit style presentation slide with the title "Talk data to me?". Two 8-bit characters, one with black hair and a red shirt on the left, and another with brown hair and a purple shirt on the right, stand on either side of a dark blue and light blue 8-bit wave design. The wave swaps direction between the two in a simple animation, as their mouths open and close. Below the wave, the text reads "Supporting English Language Learners in Statistics and Data Science" followed by a list of names under "Liza Bolton, Ping Huang, Christy Sun, Jingdi Sun with collaborators at the University of Toronto: Nathalie Moon, Samantha-Jo Caetano, J. Sparks, Quin Xie".
+
+## {visibility="uncounted"}
+
+A graphic featuring an acoustic guitar surrounded by red roses and black decorative swirls. The text at the top reads "THIS IS NOT THE GREATEST SONG IN THE WORLD." Below the guitar, the text continues "THIS IS JUST A TRIBUTE." The overall style is illustrative with a vintage feel, and the phrase "FanaticB" is in small text at the bottom right.
 
 ## Positionality statement {visibility="uncounted"}
 
